@@ -1,4 +1,4 @@
-# Kitkat_Tweepy
+# Tweepy
 
 ## Présentation:
 De nos Jour les API (interfaces de programmations) prennent une place de plus en plus importante dans le développement d'applications notamment sur le web. 
